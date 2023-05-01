@@ -1,0 +1,2 @@
+Machine learning is a subset of artificial intelligence that allows systems to automatically learn and improve from experience without being explicitly programmed.
+A blockchain is a decentralized, distributed ledger that is used to record transactions across many computers so that the record cannot be altered retroactively without the alteration of all subsequent blocks and the consensus of the network.

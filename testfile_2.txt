@@ -1,0 +1,2 @@
+Artificial intelligence is a field of study that allows machines to learn from experience and improve their performance over time. Machine learning is a subfield of artificial intelligence that involves training machines to recognize patterns and make decisions based on that training.
+A blockchain is a distributed ledger that is used to record transactions across multiple computers. It is decentralized, meaning that no single entity has control over the system. Once data is recorded on the blockchain, it cannot be altered retroactively without the consensus of the network.
